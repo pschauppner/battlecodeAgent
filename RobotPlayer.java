@@ -1,4 +1,4 @@
-package competition_agent;
+package battlecodeAgent;
 import battlecode.common.*;
 import battlecode.server.GameInfo;
 
